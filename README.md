@@ -70,7 +70,7 @@ npm start  # or yarn start
 ```
 # 📩 Connect with Me
 
-### 📧 Email: rastogiarunima@example.com
-### 💼 LinkedIn: linkedin.com/in/arunima-rastogi
+### 📧 Email: e.arunimarastogi@gmail.com
+### 💼 LinkedIn: linkedin.com/in/arunimarastogi
 ### 🐦 Twitter: @Arunima_R
 ### 🚀 Blog (Cybersecurity & Tech): [your-blog-link-here]
