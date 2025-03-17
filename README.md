@@ -13,7 +13,7 @@ Welcome to my portfolio! 🚀 This repository showcases my work, projects, and s
 - **Cybersecurity & Ethical Hacking**: Pentesting, WiFi security, Network Reconnaissance  
 - **MLOps & DevOps**: Docker, Maven, CI/CD  
 
-## 🛡️ Cybersecurity & Ethical Hacking  
+## 🛡️ Cybersecurity & Ethical Hacking   
 
 I'm an **aspiring penetration tester** who loves cybersecurity and ethical hacking. I enjoy:  
 
