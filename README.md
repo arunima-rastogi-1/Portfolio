@@ -10,7 +10,7 @@ Welcome to my portfolio! 🚀 This repository showcases my work, projects, and s
 - **Automation Testing**: Selenium, Cypress, Appium, Detox  
 - **Full-Stack Development**: React, Node.js, Python, Flask  
 - **Machine Learning & AI**: Scikit-learn, OpenAI Gym  
-- **Cybersecurity & Ethical Hacking**: Pentesting, WiFi security, Network Reconnaissance  
+- **Cybersecurity & Ethical Hacking**: Pentesting, WiFi security, Network Reconnaissance   
 - **MLOps & DevOps**: Docker, Maven, CI/CD  
 
 ## 🛡️ Cybersecurity & Ethical Hacking   
