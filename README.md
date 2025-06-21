@@ -1,6 +1,6 @@
 # 🌟 Arunima Rastogi – Portfolio   
 
-Welcome to my portfolio! 🚀 This repository showcases my work, projects, and skills as a **software developer, automation tester, and aspiring penetration tester.**  
+Welcome to my portfolio! 🚀 This repository showcases my work, projects, and skills as a **software developer, automation tester, and aspiring penetration tester.**   
   
 ## 📌 About Me         
 
