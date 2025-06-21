@@ -1,7 +1,7 @@
 # 🌟 Arunima Rastogi – Portfolio   
 
 Welcome to my portfolio! 🚀 This repository showcases my work, projects, and skills as a **software developer, automation tester, and aspiring penetration tester.**  
- 
+  
 ## 📌 About Me      
 
 👋 Hi, I'm **Arunima Rastogi**, a Computer Science graduate passionate about **software development, cybersecurity, and automation testing.** My expertise includes:  
